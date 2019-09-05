@@ -1,0 +1,86 @@
+{
+
+    "demoFeedbackPoints":[{
+    "originCharges":{
+        "origin": "Delhi",
+        "destination": "Dubai",
+        "ssrMsrCostValidationMsg":"SSR amount cannot be less than Cost amount OR MSR amount !",
+        "destinationDubai": "Dubai",
+        "originNewYork": "New York",
+        "currencyDubai": "AED",
+        "currencyNewYork": "USD",
+        "originCharge": "Advance Filing Rules",
+        "originUnit": "Kilograms",
+        "destinationCharge": "Delivery Charge",
+        "destinationUnit": "Shipment",
+        "freightCharge": "Freight Charge",
+        "msrMinimum": 100,
+        "msrAmount": 100,
+        "msrAmountLess": 20,
+        "ssrMinimum": 100,
+        "ssrAmount": 100,
+        "ssrAmountMore": 111,
+        "ssrAmountLess": 50,
+        "costMinimum": 100,
+        "costAmount": 100,
+        "costAmountLess": 40
+    },
+    "destinationCharges":{
+        "origin": "Delhi",
+        "destination": "Dubai",
+        "ssrMsrCostValidationMsg":"SSR amount cannot be less than Cost amount OR MSR amount !",
+        "destinationDubai": "Dubai",
+        "originNewYork": "New York",
+        "currencyDubai": "AED",
+        "currencyNewYork": "USD",
+        "originCharge": "Advance Filing Rules",
+        "originUnit": "Kilograms",
+        "destinationCharge": "Delivery Charge",
+        "destinationUnit": "Shipment",
+        "freightCharge": "Freight Charge",
+        "msrMinimum": 100,
+        "msrAmount": 100,
+        "msrAmountLess": 20,
+        "ssrMinimum": 100,
+        "ssrAmount": 100,
+        "ssrAmountMore": 111,
+        "ssrAmountLess": 50,
+        "costMinimum": 100,
+        "costAmount": 100,
+        "costAmountLess": 40
+    },
+
+
+   
+    "quotationDimensionData":
+        {
+            "noOfPieces":2,
+            "dimensionGrossWeight":100,
+            "lessLengthInCm": 316,
+            "lessWidthInCm": 316,
+            "lessHeightInCm": 157,
+            "equalLengthInCm": 317,
+            "equalWidthInCm": 317,
+            "equalHeightInCm": 158,
+            "higherLengthInCm": 318,
+            "higherWidthInCm": 318,
+            "higherHeightInCm": 159,
+            "lessLengthInInch": 124,
+            "lessWidthInInch": 124,
+            "lessHeightInInch": 61,
+            "equalLengthInInch": 125,
+            "equalWidthInInch": 125,
+            "equalHeightInInch": 62,
+            "higherLengthInInch": 126,
+            "higherWidthInInch": 126,
+            "higherHeightInInch": 63
+        },
+
+        "agentPortDetails":{
+            "agentPortService":"Air Export",
+            "agentName":"Ramana",
+            "agentPort":"Neyveli"
+        }
+        }]
+}
+

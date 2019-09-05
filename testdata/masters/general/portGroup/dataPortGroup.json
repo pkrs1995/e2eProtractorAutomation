@@ -1,0 +1,41 @@
+{ 
+    "addPortGroup":
+    [ 
+        {
+            "name":"Alphabet",
+            "code":"XY",
+            "country":"India"
+        },
+        {
+            "name" :"Alphabet",
+            "code":"ZY",
+            "country":"India"
+        },
+        {
+            "name":"AnotherAlphabet",
+            "code":"XY",
+            "country":"India"
+        }
+    ],
+
+    "previewPortGroup" : 
+    [
+        {
+            "name":"Alphabet",
+            "code":"XY",
+            "country": "India",
+            "status" :"Active"
+        }
+    ],
+
+    "editPortGroup" : 
+    [
+        {
+            "name":"Alphabet",
+            "country":"India",
+            "status" :"Block"
+        }
+    ]
+            
+    
+}

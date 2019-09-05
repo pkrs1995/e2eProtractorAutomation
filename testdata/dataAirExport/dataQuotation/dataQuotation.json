@@ -1,0 +1,28 @@
+{
+    "addQuotation": [{
+
+        "quotation" : {
+    
+                "referenceNo":"33333",
+                "shipper":"Rahul",
+                "attention":"test customer",
+                "generalNotes":"General notes added successfully"
+        },
+    
+        "quotationCarrier": {
+    
+            "carrier":"Aer Lingus",
+            "transitDays":"2",
+            "frequency":"Twice A Week",
+            "amtPerUnit":"10",
+            "minAmount":"8"  
+        },
+    
+        "airNotes": {
+            "notes":"Air note added successfully"
+        },
+            "quotationTableDataXpathTag":"vm.quotationList",
+            "updatedGrossWtVal":"91.00",
+            "updatedAttentionVal":"testCustomerUpdated"
+        }]
+}

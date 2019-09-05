@@ -1,0 +1,13 @@
+{
+    "service":"Air Export", 
+    "termsOfShipment":"Cost And Freight", 
+    "origin":"Delhi", 
+    "destination":"Dubai", 
+    "frequency":"Daily", 
+    "commodityGrp":"1-cyanoguanidine (dicyandiamide)", 
+    "unit":"KG", 
+    "volume":"10", 
+    "noOfShipment":"2", 
+    "estRevenue":"2000", 
+    "currentPotential":"Current"
+}

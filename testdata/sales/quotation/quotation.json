@@ -1,0 +1,20 @@
+{
+    "testcasename2":[{
+        "T1_iteration1": {
+            
+            "customerDetail" :{
+                "CustomerName":"Prabha ",
+                "CustomerCode" : "Vishnu", 
+                "CustomerAddress1":"Krishna"
+                },
+    
+            "ShipperDetail"  :{
+                "ShipperName":"Prabha ", 
+                "ShipperCode" : "Vishnu", 
+                "ShipperAddress":"Krishna"
+                } 
+            }
+        }]
+    
+    
+    }

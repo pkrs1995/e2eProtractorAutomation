@@ -1,0 +1,14 @@
+{
+    "paymentSchedule":"Daily", 
+    "cafPercentage":"5", 
+    "ccPercentage":"5",
+    "tdsPercentage":"7", 
+    "cstno":"7777", 
+    "location":"Gurgaon", 
+    "account":"Local Debtors", 
+    "termCode":"Cash", 
+    "currencyCode":"INR",
+    "billingAccountName":"Party", 
+    "taxExempted":"Yes", 
+    "status":"Active"
+}

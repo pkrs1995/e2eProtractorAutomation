@@ -1,0 +1,33 @@
+{ 
+    "addCarrierRate":[ {
+            "carrierRate" :{
+                "carrier":"Emirates",
+                "charge":"Freight Charge",
+                "unit":"Kilograms",
+                "chargeableWeight":"Actual",
+                "origin":"Mumbai",
+                "destination":"chennai",
+                "firstAmount":"350",
+                "firstMinAmount":"300",
+                "secondAmount":"250",
+                "secondMinAmount":"200"
+            } 
+        },
+        {
+            "carrierRate" :{
+                "carrier":"Emirates",
+                "charge":"Air Waybill Fee",
+                "unit":"Document",
+                "chargeableWeight":"Actual",
+                "origin":"Mumbai",
+                "destination":"chennai",
+                "firstAmount":"450",
+                "firstMinAmount":"400",
+                "secondAmount":"550",
+                "secondMinAmount":"500"
+            } 
+        }
+    ]
+            
+    
+}

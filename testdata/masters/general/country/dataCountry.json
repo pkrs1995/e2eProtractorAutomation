@@ -1,0 +1,52 @@
+{ 
+    "addCountry":
+    [ 
+        {
+            "name":"Alphabet",
+            "code":"XY",
+            "currencyCode":"INR",
+            "nationality" : "Indian",
+            "inlandHaulage" : "100",
+            "imagePath" : "../testdata/dataFiles/companyLogo.jpg"
+        },
+        {
+            "name":"Alphabet",
+            "code":"XY",
+            "currencyCode":"INR",
+            "nationality" : "Indian",
+            "inlandHaulage" : "100"
+        },
+        {
+            "name":"Alphabet",
+            "code":"XY",
+            "currencyCode":"INR",
+            "nationality" : "Indian",
+            "inlandHaulage" : "100"
+        }
+    ],
+    "previewCountry" :
+    [
+        {
+            "name":"Alphabet",
+            "code":"XY",
+            "currencyCode":"INR",
+            "nationality" : "Indian",
+            "inlandHaulage" : "100",
+            "status" :"Active"
+        }
+    ],
+
+    "editCountry" : 
+    [
+        {
+            "name":"Alphabet",
+            "currencyCode":"INR",
+            "nationality" : "Indian",
+            "inlandHaulage" : "100",
+            "status" :"Active",
+            "imagePath" : "../testdata/dataFiles/companyLogo.jpg"
+        }
+    ]
+            
+    
+}

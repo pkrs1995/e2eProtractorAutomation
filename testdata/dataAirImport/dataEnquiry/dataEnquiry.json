@@ -1,0 +1,73 @@
+{
+    "addEnquiry":[{
+        "enquiry" :{
+            "name":"testCustomer10316",
+            "origin":"Delhi",
+            "destination":"Dubai",
+            "termsOfShipment":"Cost And Freight",
+            "trade":"Import",
+            "service":"Air",
+            "commodityGroup":"1,2-dichloroethane (ethylene dichloride)",
+            "grossWeight":"10",
+            "volumeWeight":"10",
+            "remarks":"Remarks Added successfully",
+            "attachmentRefNo":"33333",
+            "enquiryTableDataXpathTag":"vm.enquiryList",
+            "enquiryScreenTableXpathTag":"enquiryArrList"
+        },
+
+        "dimensions":{
+            "noOfPieces":"2",
+            "length":"50",
+            "width":"50",
+            "height":"50",
+            "dimensionGrossWeight":"100"
+        },
+
+        "pickUpDelivery":{
+            "pickUpAddress1":"pick up address 1",
+            "pickUpAddress2":"pick up address 2",
+            "pickUpAddress3":"pick up address 3",
+            "pickUpPoBox":"11111",
+            "pickUpCity":"Delhi",
+            "pickUpState":"Delhi",
+            "pickUpCountry":"India",
+            "deliveryAddress1":"delivery up address 1",
+            "deliveryAddress2":"delivery up address 2",
+            "deliveryAddress3":"delivery up address 3",
+            "deliveryPoBox":"22222",
+            "deliveryCity":"Delhi",
+            "deliveryState":"Delhi",
+            "deliveryCountry":"India"
+        },
+
+        "rateRequest":{
+            "vendor":"AddCustomer114549",
+            "contactPerson":"test User",
+            "Email":"testCustomer@test.com",
+            "Final":"Yes",
+            "chargeCode":"ACRC",
+            "unitCode":"KG",
+            "currency":"INR",
+            "buyRate":"100",
+            "minAmt":"80",
+            "fromSlab":"+250",
+            "Soc":"General"
+        
+        },
+
+        "addNewCustomerDetails":{
+            "country":"india",
+            "AddressLine1":"New age Software Solution,Bangalore,MFAR Sliver Tech Park",
+            "City": "Chennai",
+            "State": "Tamil Nadu",
+            "origin":"Chennai",
+            "destination":"Singapore",
+            "termsOfShipment":"Cost And Freight",
+            "trade":"Import",
+            "service":"Air"
+        }
+    }]
+
+
+}

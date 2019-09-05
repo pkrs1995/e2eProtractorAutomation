@@ -1,0 +1,14 @@
+{
+    
+    "addCompany":[ {
+                "company" : {
+                    "companyName":"Freight System Logistics Pvt Ltd",
+                    "companyCode":"FSL",
+                    "companyXpathTag":"companyArr",
+                    "updatedcompanyName":"New Age Software & Solution",
+                    "existingCompanyName":"Xebia"
+            }
+     }]
+            
+    
+}

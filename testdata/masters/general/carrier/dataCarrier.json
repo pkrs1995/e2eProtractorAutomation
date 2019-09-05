@@ -1,0 +1,31 @@
+{ 
+    "addCarrier":[ {
+            "carrier" :{
+                "transportMode":"Air",
+                "name":"Air India1",
+                "code":"AG",
+                "messageType":"EK",
+                "carrierNumber":"123",
+                "ICAOCode":"1234",
+                "location":"Gurgaon",
+                "carrierAgent":"testImportCustomer",
+                "accountNumber":"52427278278"
+            } 
+        },
+        {
+            "carrier" :{
+                "transportMode":"Air",
+                "name":"Adria Airways",
+                "code":"JP",
+                "messageType":"EK",
+                "carrierNumber":"123",  
+                "ICAOCode":"1234",
+                "location":"Gurgaon",
+                "carrierAgent":"testImportCustomer",
+                "accountNumber":"52427278278"
+            } 
+        }
+    ]
+            
+    
+}

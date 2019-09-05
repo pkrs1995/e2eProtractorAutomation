@@ -1,0 +1,32 @@
+{
+    "loginPage" : {
+
+           "FirstData" : {
+            "SaasId" : "EFSVRO",
+            "username" : "newage",
+            "password" : "newage@123"
+        },
+
+            "SecondData" :{
+            "SaasId" : "EFSVR",
+            "username" : "xebia",
+            "password" : "p@ssw0rd"
+
+        },
+
+         "ThirdData" :{
+            "SaasId" : "EFSVRO",
+            "username" : "xebia",
+            "password" : "p@ssw0"
+
+        },
+
+        "FourthData" :{
+            "SaasId" : "EFSVRO",
+            "username" : "xebi",
+            "password" : "p@ssw0"
+
+        }
+    }
+}
+    

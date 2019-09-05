@@ -1,0 +1,37 @@
+{
+    "addDeliveryToCFS":[{
+
+            "deliveryToCFS":{
+                "depotDeliveryPlaceAddress1":"delivery place address 1",
+                "depotDeliveryPlaceAddress2":"delivery place address 2",
+                "depotDeliveryPlaceAddress3":"delivery place address 3",
+                "depotDeliveryPlaceState":"Delhi",
+                "depotDeliveryPlaceCity":"Delhi",
+                "depotDeliveryPlaceZip":"11111",
+                "depotContactPerson":"test Contact Person",
+                "depotContactPersonEmail":"contactperson@test.com",
+                "depotContactPersonMobileNo":"1234567899",
+                "depotContactPersonPhoneNo":"1234567899",
+                "doorDeliveryPlaceAddress1":"door delivery address 1",
+                "doorDeliveryPlaceAddress2":"door delivery address 2",
+                "doorDeliveryPlaceAddress3":"door delivery address 3",
+                "doorDeliveryPlaceState":"Delhi",
+                "doorDeliveryPlaceCity":"Delhi",
+                "doorDeliveryPlaceZip":"11111",
+                "doorContactPerson":"test Contact Person",
+                "doorContactPersonEmail":"contactperson@test.com",
+                "doorContactPersonMobileNo":"1234567899",
+                "doorContactPersonPhoneNo":"1234567899"
+                
+        },
+
+            "CFSDetails": {
+                "cfsName":"cfsPoint",
+                "cfsCode":"CFF",
+                "cfsPort":"Chennai"
+        },
+        
+            "deliveryToCfsTableDataXpathTag":"vm.deliverToCFSList"
+    }]
+   
+}

@@ -1,0 +1,47 @@
+{ 
+    "addTermsofShipment":[ {
+            "tos" :{
+                "name":"Cost And Free On Board",
+                "code":"CFB",
+                "freight":"Prepaid",
+                "textarea":"Cost And Free On Board"
+        
+            } 
+        },
+        {
+            "tos" :{
+                "name":"Ex Works",
+                "code":"EXS",
+                "freight":"Prepaid",
+                "textarea":"Ex Works"
+            } 
+        },
+        {
+            "tos" :{
+                "name":"Ex Works",
+                "code":"EXW",
+                "freight":"Prepaid",
+                "textarea":"Ex Works"
+            } 
+        },
+        {
+            "tos" :{
+                "name":"Cost And Free On Board1",
+                "code":"CFB",
+                "freight":"Collect",
+                "textarea":"Cost And Free On Board1"
+            } 
+        },
+        {
+            "tos" :{
+                "name":"Ex Works",
+                "code":"EXW",
+                "freight":"Prepaid",
+                "textarea":"Ex Works"
+            } 
+        }
+            
+    ]
+            
+    
+}

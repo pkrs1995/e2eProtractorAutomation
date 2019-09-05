@@ -1,0 +1,12 @@
+{
+    "globalData": {
+        
+        "appUrl":"",
+        "customerName":"exportCustomer",
+        "importCustomerName":"testImportCustomer173439",
+        "existingCustomerName":"Vishnu Logistics",
+        "quotationId" :"Q000205",
+        "agentName":"Vishnu Logistics",
+        "shipmentId": "SHP000001"
+}
+}

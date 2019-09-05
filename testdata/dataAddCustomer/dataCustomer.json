@@ -1,0 +1,6 @@
+{
+    "name":"testCustomer",
+    "grade":"A",
+    "country":"India",
+    "customerTableDataXpathTag":"partyArr"
+}

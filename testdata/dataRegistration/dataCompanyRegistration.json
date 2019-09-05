@@ -1,0 +1,69 @@
+{
+   
+    "companyRegistration":[{
+   
+        "company":{
+                "salutation":"Mr",
+                "firstName":"test",
+                "lastName":"user",
+                "email":"testuser@test.com",
+                "countryName":"India",
+                "phoneNumber":"1234567899",
+                "mobileNumber":"1234567899",
+                "companyName":"vishnu",
+                "address1":"company address 1",
+                "address2":"company address 2",
+                "address3":"company address 3",
+                "area":"sector-30",
+                "stateProvince":"Delhi",
+                "cityName":"Delhi",
+                "zipCode":"1111111",
+                "region":"Southern Asia",
+                "timeZone":"India Standard Time(IST+05:30)",
+                "dateFormat":"DD-MM-YYYY",
+                "existingCompanyName" :"xebia"
+        },
+
+    "loginCreation":{
+        "position":"Consultant",
+        "password":"xebia@123",
+        "confirmPassword":"xebia@123"
+        },
+
+ 
+
+    "configuration":{
+        "currency":"Indian Rupee",
+        "language":"English"
+            },
+
+    "financeSetUp":{
+        "invoiceHeaderNote":"Header Added",
+        "invoiceFooterNote":"Footer Added"
+            },
+
+     "chargeSetup" :{
+        "chargeName":"chargeName",
+        "chargeCode":"10",
+        "chargeType":"Origin",
+        "calculationType":"Unit"
+            },                 
+
+    "others":{
+        "jobDateSetupExport":"Current Date",
+        "jobDateSetupImport":"Current Date",
+        "daybookCode":"10",
+        "daybookName":"day book",
+        "documentType":"Invoice",
+        "noOfDigits":"6",
+        "prefix":"E",
+        "yearOption":"Yes",
+        "monthOption":"Yes",
+        "startingNumber":"1",
+        "suffix":"D",
+        "separator":"-"
+
+
+        }
+    }]
+}

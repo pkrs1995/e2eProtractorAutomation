@@ -1,0 +1,20 @@
+{
+    "deliveryToCfsAddress1":"delivery To Cfs Address 1",
+    "deliveryToCfsAddress2":"delivery To Cfs Address 2",
+    "deliveryToCfsAddress3":"delivery To Cfs Address 3",
+    "deliveryToCfsState":"Delhi",
+    "deliveryToCfsCity":"Delhi",
+    "deliveryToCfsZip":"111111",
+    "deliveryToCfsContactPerson":"Contact person",
+    "deliveryToCfsEmail":"contactperson@test.com",
+    "deliveryToCfsMobileNo":"1234567899",
+    "deliveryToCfsPhoneNo":"1234567899",
+    "chargesChargeCode":"AFRFEE",
+    "chargesPpCc":"Collect",
+    "chargesAmtPerUnit":"100",
+    "chargesDue":"Agent",
+    "signOffDescription":"sign off successfully",
+    "signOffTableDataXpathTag":"vm.signOffList",
+    "airportOfDischarge":"Dubai",
+    "volumeWt":"100"
+}

@@ -1,0 +1,63 @@
+{
+    "addEnquiry":[{
+
+         "enquiry": {
+            "trade": "Export",
+            "service": "Air",
+            "origin": "Delhi",
+            "destination": "Abu Dhabi",
+            "termsOfShipment": "Cost And Freight",
+            "commodityGroup": "1,2-dichloroethane (ethylene dichloride)",
+            "grossWeight": "10",
+            "volumeWeight": "10",
+            "remarks": "Remarks Added successfully",
+            "attachmentRefNo": "33333"
+         },
+        
+         "dimensions":{
+            "noOfPieces": "2",
+            "length": "50",
+            "width": "50",
+            "height": "50",
+            "dimensionGrossWeight": "100"
+         },
+
+        "pickupAddress" :{
+            "pickUpAddress1": "pick up address 1",
+            "pickUpAddress2": "pick up address 2",
+            "pickUpAddress3": "pick up address 3",
+            "pickUpPoBox": "11111",
+            "pickUpCity": "Delhi",
+            "pickUpState": "Delhi",
+            "pickUpCountry": "India",
+            "deliveryAddress1": "delivery up address 1",
+            "deliveryAddress2": "delivery up address 2",
+            "deliveryAddress3": "delivery up address 3",
+            "deliveryPoBox": "22222",
+            "deliveryCity": "Delhi",
+            "deliveryState": "Delhi",
+            "deliveryCountry": "India"
+         },
+
+        "rateRequest": {
+            "vendor": "Rahul",
+            "contactPerson": "test User",
+            "Email": "testCustomer@test.com",
+            "Final": "Yes",
+            "chargeCode": "ACRC",
+            "unitCode": "KG",
+            "currency": "INR",
+            "buyRate": "100",
+            "minAmt": "80",
+            "fromSlab": "+250",
+            "Soc": "General"
+        },
+    
+            "enquiryTableDataXpathTag": "vm.enquiryList",
+            "lbsUnitValue": "366",
+            "cmUnitValue":"6000",
+            "updatedCommodityGrp":"1,3-dihydroxyacetone"
+       
+    }]
+   
+}

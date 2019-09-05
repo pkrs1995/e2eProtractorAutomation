@@ -1,0 +1,47 @@
+{ 
+    "addUnit":[ {
+            "unit" :{
+                "name":"Package",
+                "code":"PCK",
+                "type":"Container",
+                "decimals":"1"
+        
+            } 
+        },
+        {
+            "unit" :{
+                "name":"Package",
+                "code":"DOC2",
+                "type":"Container",
+                "decimals":"0"
+            } 
+        },
+        {
+            "unit" :{
+
+                "name":"Package",
+                "code":"PCK",
+                "type":"Container",
+                "decimals":"1"
+            } 
+        },
+        {
+            "unit" :{
+                "name":"Bag",
+                "code":"PCK",
+                "type":"Container",
+                "decimals":"0"
+            } 
+        },
+        {
+            "unit" :{
+                "name":"Document",
+                "code":"DOC",
+                "type":"Container",
+                "decimals":"0"
+            } 
+        }
+            
+    ]
+              
+}

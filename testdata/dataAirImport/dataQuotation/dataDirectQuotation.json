@@ -1,0 +1,24 @@
+{
+    "referenceNo":"33333",
+    "shipper":"Rahul",
+    "attention":"test customer",
+    "generalNotes":"General notes added successfully",
+    "carrier":"Aer Lingus",
+    "transitDays":"2",
+    "frequency":"Twice A Week",
+    "amtPerUnit":"10",
+    "minAmount":"8",
+    "notes":"Air note added successfully",
+    "quotationTableDataXpathTag":"vm.quotationList",
+	"grossWeight": "20",
+	"volumeWeight": "30",
+	"destination": "Dubai",
+	"origin": "delhi",
+	"chargeCode": "AFRFEE",
+	"unit" : "DOC",
+	"noOfUnit" : "+250",
+	"costPerUnit": "455",
+	"minCost" : "33"
+}
+
+

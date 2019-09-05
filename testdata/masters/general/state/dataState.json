@@ -1,0 +1,41 @@
+{ 
+    "addState":[ {
+            "state" :{
+                "name":"Andhra Pradesh",
+                "code":"AP",
+                "country":"Sri Lanka"
+            } 
+        },
+        {
+            "state" :{
+                "name":"Andhra Pradesh",
+                "code":"ZP",
+                "country":"Sri Lanka"
+            } 
+        },
+        {
+            "state" :{
+                "name":"Andhra Pradesh1",
+                "code":"KA",
+                "country":"Sri Lanka"
+            } 
+        },
+        {
+            "state" :{
+                "name":"Karnataka",
+                "code":"AP",
+                "country":"New Zealand"
+            } 
+        },
+        {
+            "state" :{
+                "name":"Karnataka",
+                "code":"KA",
+                "country":"India"
+            } 
+        }
+            
+    ]
+            
+    
+}

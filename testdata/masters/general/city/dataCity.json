@@ -1,0 +1,14 @@
+{ 
+    "addCity":
+    [ 
+        {
+            "name":"Bhubaneswar",
+            "code":"BBI",
+            "state":"Odisha",
+            "country":"India",
+            "status" : "Block"
+        }
+    ]
+            
+    
+}

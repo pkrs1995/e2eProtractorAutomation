@@ -1,0 +1,46 @@
+{
+
+"addDirectShipment" : [{
+                        "serviceandRouting":{
+                            "termsofshipment":"Delivery Duty Paid",
+                            "commoditygroup": "1,2-dichloroethane (ethylene dichloride)",
+                            "origin":"chennai",
+                            "airportOfDischarge": "Singapore",
+                            "selfRoutedBy": "Xebia User",
+                            "pieces": "12",
+                            "grossWeightKG": "21"
+                        },
+                            "service" : "Air Export",
+                            "shipmentScreenXpathTag":"shipmentArr",
+                            "customer":"FSL Pvt Ltd"
+                    
+
+
+
+    }]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,16 @@
+{
+    "disableCustomerType":"CS",
+    "customerType":"CS",
+    "agentCustomerType":"AG",
+    "iataCode":"12345",
+    "vertical":"Export", 
+    "vatNo":"12345",
+    "PanNo":"12345",
+    "svtRegnNo":"12345",
+    "tinNo":"12345",
+    "racNum":"12345", 
+    "accountNum":"12345", 
+    "personalIdNum":"12345",
+    "tsaRegistrationNum":"12345", 
+    "spotNum":"12345"
+}

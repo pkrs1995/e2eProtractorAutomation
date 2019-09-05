@@ -1,0 +1,38 @@
+{ 
+  "addShipment": [{
+
+        "shipmentCargoDetails": {
+
+                "sellRate":"20",
+                "holdReleaseNote":"Added Hold Release Note",
+                "pieces" : "10"
+        },
+    
+        "shipmentHawb": {
+    
+                "handlingInfo":"Added Handling Info",
+                "accountingInfo":"Added Accounting Info",
+                "commodityDescription":"Added commodity description",
+                "marksNo":"Added marks and no",
+                "shipmentTableDataXpathTag":"vm.shipmentList"
+        },
+    
+        "shipmentServiceRouting": {
+    
+                "carrier":"Emirates",
+                "flightNo":"555",
+                "mawbNo":"17680084502"
+        },
+        
+        "shipmentConnection":{  
+                "connectionsMove":"Air",
+                "connectionsFrom":"Abaiang",
+                "connectionsTo":"Abau",
+                "connectionsCarrierVessel":"Emirates",
+                "connectionsVoyFltNo":"555",
+                "connectionsStatus":"Planned"
+        }
+  }]
+
+
+}

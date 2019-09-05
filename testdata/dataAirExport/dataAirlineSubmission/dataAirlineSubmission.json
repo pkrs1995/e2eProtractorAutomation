@@ -1,0 +1,4 @@
+{
+    "airlineSubmissionTableDataXpathTag":"vm.airLineSubmissionList",
+    "jobCompletionTableDataXpathTag":"vm.jobCompletionList"
+}

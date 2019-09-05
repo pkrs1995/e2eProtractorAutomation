@@ -1,0 +1,22 @@
+{
+    "addLinkingToMaster":[{
+
+        "linkingToMaster": {
+            "othersTabDocumentNo":"1234",
+            "othersTabOrigin":"Delhi",
+            "othersTabDestination":"Dubai",
+            "othersTabNoOfPieces":"2",
+            "othersTabGrossWt":"100",
+            "othersTabVolumeWt":"100"
+            
+        },
+        "eventsTab":{
+            "eventsName":"Cargo Received",
+            "eventsFollowUpRequired":"No",
+            "eventsCompleted":"Yes"
+        },
+            "linkingToMasterTableDataXpathTag":"vm.linkMasterList"
+    }]
+   
+    
+}

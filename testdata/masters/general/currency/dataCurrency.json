@@ -1,0 +1,14 @@
+{
+    "addCurrency":[ {
+
+                    "name":"India Rupee",
+                    "code":"IND",
+                    "country":"India",
+                    "prefix":"Rupees",
+                    "suffix":"Paisa",
+                    "decimal":"2",
+                    "updatedCurrencyName" : "Indian Rupees"
+                    }
+                   
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "addQuotation": [{
+            "Quotation": {
+                "referenceNo":"33333",
+                "shipper":"testCustomer152138",
+                "attention":"test customer",
+                "grossWeight":"100",
+                "generalNotes":"General notes added successfully",
+                "serviceName" : "Air Import",
+                "origin": "Delhi",
+                "destination": "Dubai",
+                "termsOfShipment": "Cost And Freight"
+            },
+        
+            "carrierCharge":{
+                "carrier":"Emirates",
+                "transitDays":"2",
+                "frequency":"Twice A Week",
+                "chargeCode":"FRT",
+                "amtPerUnit":"10",
+                "minAmount":"8"
+                
+            },
+        
+            "Notes":{
+                "notes":"Air note added successfully"
+            },
+
+            "overDimensions":{
+                "noOfPieces":2,
+                "grossWeight":100,
+                "length": 317,
+                "width": 317,
+                "height": 158,
+                "isOverDimension":"NO"
+            },
+
+            "quotationTableDataXpathTag":"vm.quotationList",
+            "quotationScreenTableDataXpathtag" : "quotationArr"
+        },
+        {
+            "overDimensions":{
+                "noOfPieces":2,
+                "grossWeight":100,
+                "length": 316,
+                "width": 316,
+                "height": 157,
+                "isOverDimension":"NO"
+            }
+
+        },
+        {
+            "overDimensions":{
+                "noOfPieces":2,
+                "grossWeight":100,
+                "length": 317,
+                "isOverDimension":"NO"
+            }
+
+        },
+        {
+            "overDimensions":{
+                "noOfPieces":2,
+                "grossWeight":100,
+                "width": 317,
+                "isOverDimension":"NO"
+            }
+
+        },
+        {
+            "overDimensions":{
+                "noOfPieces":2,
+                "grossWeight":100,
+                "height": 158,
+                "isOverDimension":"NO"
+            }
+
+        },
+        {
+            "overDimensions":{
+                "dimensionUnit": "Inch / Pounds",
+                "noOfPieces":2,
+                "grossWeight":100,
+                "length": 125,
+                "width": 125,
+                "height": 62,
+                "isOverDimension":"NO"
+            }
+
+        },
+        {
+            "overDimensions":{
+                "dimensionUnit": "Inch / Pounds",
+                "noOfPieces":2,
+                "grossWeight":100,
+                "length": 124,
+                "width": 124,
+                "height": 61,
+                "isOverDimension":"NO"
+            }
+            
+        },
+        {
+            "overDimensions":{
+                "dimensionUnit": "Inch / Pounds",
+                "noOfPieces":2,
+                "grossWeight":100,
+                "length": 125,
+                "isOverDimension":"NO"
+            }
+        },
+        {
+            "overDimensions":{
+                "dimensionUnit": "Inch / Pounds",
+                "noOfPieces":2,
+                "grossWeight":100,
+                "width": 125,
+                "isOverDimension":"NO"
+            }
+        },
+        {
+            "overDimensions":{
+                "dimensionUnit": "Inch / Pounds",
+                "noOfPieces":2,
+                "grossWeight":100,
+                "height": 62,
+                "isOverDimension":"NO"
+            }
+        },
+        {
+            "overDimensions":{
+                "noOfPieces":2,
+                "grossWeight":100,
+                "length": 318,
+                "width": 318,
+                "height": 159,
+                "isOverDimension":"YES"
+            }
+        },
+        {
+            "overDimensions":{
+                "noOfPieces":2,
+                "grossWeight":100,
+                "length": 318,
+                "isOverDimension":"YES"
+            }
+        },
+        {
+            "overDimensions":{
+                "noOfPieces":2,
+                "grossWeight":100,
+                "width": 318,
+                "isOverDimension":"YES"
+            }
+        },
+        {
+            "overDimensions":{
+                "noOfPieces":2,
+                "grossWeight":100,
+                "height": 159,
+                "isOverDimension":"YES"
+            }
+        },
+        {
+            "overDimensions":{
+                "dimensionUnit": "Inch / Pounds",
+                "noOfPieces":2,
+                "grossWeight":100,
+                "length": 126,
+                "width": 126,
+                "height": 63,
+                "isOverDimension":"YES"
+            }
+        },
+        {
+            "overDimensions":{
+                "dimensionUnit": "Inch / Pounds",
+                "noOfPieces":2,
+                "grossWeight":100,
+                "length": 126,
+                "isOverDimension":"YES"
+            }
+        },
+        {
+            "overDimensions":{
+                "dimensionUnit": "Inch / Pounds",
+                "noOfPieces":2,
+                "grossWeight":100,
+                "width": 126,
+                "isOverDimension":"YES"
+            }
+        },
+        {
+            "overDimensions":{
+                "dimensionUnit": "Inch / Pounds",
+                "noOfPieces":2,
+                "grossWeight":100,
+                "height": 63,
+                "isOverDimension":"YES"
+            }
+        }
+       
+    ]
+   
+}

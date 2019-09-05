@@ -1,0 +1,19 @@
+{
+    "addpickUp":[{
+
+        "pickup":{
+            "pickUpAddress1":"pick up address 1",
+            "pickUpAddress2":"pick up address 2",
+            "pickUpAddress3":"pick up address 3",
+            "pickUpState":"Delhi",
+            "pickUpCity":"Delhi",
+            "pickUpZipCode":"11111",
+            "pickUpContactDetails":"testContactPerson",
+            "pickUpEmail":"testContactPerson@test.com",
+            "pickUpMobileNo":"1234567899",
+            "pickUpPhoneNo":"1234567899",
+            "pickUpTableDataXpathTag":"vm.pickupList"
+        }
+    }]
+  
+}

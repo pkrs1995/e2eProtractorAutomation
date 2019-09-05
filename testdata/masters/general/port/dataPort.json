@@ -1,0 +1,82 @@
+{ 
+    "addPort":
+    [ 
+        {
+            "transportMode":"Air",
+            "name":"Alphabet",
+            "code":"XYZ",
+            "group":"India"
+        },
+        {
+            "transportMode":"Air",
+            "name":"Alphabet",
+            "code":"ZYX",
+            "group":"India"
+        },
+        {
+            "transportMode":"Air",
+            "name":"AnotherAlphabet",
+            "code":"XYZ",
+            "group":"India"
+        }
+    ],
+    "addEdiMapping":
+    [ 
+        {
+            "ediType":"ediType0",
+            "ediSubtype":"ediSubtype",
+            "ediValue":"ediValue"
+        },
+        {
+            "ediType":"ediType1",
+            "ediSubtype":"ediSubtype",
+            "ediValue":"ediValue"
+        },
+        {
+            "ediType":"ediType2",
+            "ediSubtype":"ediSubtype",
+            "ediValue":"ediValue"
+        }
+    ],
+    "previewport" : 
+    [
+        {
+            "transportMode":"Air",
+            "name":"Alphabet",
+            "code":"XYZ",
+            "group":"India",
+            "country": "India",
+            "status" :"Active"
+        }
+    ],
+
+    "editPort" : 
+    [
+        {
+            "transportMode":"Air",
+            "name":"Alphabet",
+            "group":"India",
+            "status" :"Block"
+        }
+    ],
+    "editEdiMapping":
+    [ 
+        {
+            "ediType":"ediType3",
+            "ediSubtype":"ediSubtype",
+            "ediValue":"ediValue"
+        },
+        {
+            "ediType":"ediType4",
+            "ediSubtype":"ediSubtype",
+            "ediValue":"ediValue"
+        },
+        {
+            "ediType":"ediType5",
+            "ediSubtype":"ediSubtype",
+            "ediValue":"ediValue"
+        }
+    ]
+            
+    
+}

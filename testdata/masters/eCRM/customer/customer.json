@@ -1,0 +1,273 @@
+{
+    "addCustomer":[{
+        "customer" :{
+            "name":"testCustomer",
+            "grade":"A",
+            "country":"India",
+            "customerTableDataXpathTag":"partyArr"
+        },
+        
+        "account" : {
+            "paymentSchedule":"Daily", 
+            "cafPercentage":"5", 
+            "ccPercentage":"5",
+            "tdsPercentage":"7", 
+            "cstno":"7777", 
+            "location":"Gurgaon", 
+            "account":"Local Debtors", 
+            "termCode":"Cash", 
+            "currencyCode":"INR",
+            "billingAccountName":"Party", 
+            "taxExempted":"Yes", 
+            "status":"Active"
+        },
+
+        "address":{
+            "type":"Primary",
+            "address1":"Address 1",
+            "address2":"Address 2",
+            "address3":"Address 3",
+            "contactName":"test Customer",
+            "stateProvince":"Delhi",
+            "email":"testCustomer@test.com",
+            "phoneNumber":"1234567899",
+            "mobileNumber":"1234567899",
+            "faxNumber":"1234567899",
+            "city":"Delhi",
+            "zipCode":"11111",
+            "branchSlNum":"1234",
+            "bankDlrCodeNum":"1234"
+        },
+
+        "contactOfficial":{
+            "salutation":"Mr",
+            "firstName":"test",
+            "lastName":"Customer",
+            "designation":"QA",
+            "department":"Software Engg",
+            "address":"Address",
+            "officePhoneNum":"1234567899",
+            "mobileNum":"1234567899",
+            "faxNum":"1234567899",
+            "email":"testCustomer@test.com",
+            "assistantName":"testAssistant",
+            "assistantPhoneNum":"1234567899",
+            "preferredCallTime":"afternoon",
+            "reportingTo":"testReporter",
+            "formerCompany":"xebiaIT"
+        },
+        "contactPersonal": {
+            "personalAddress":"Personal Address",
+            "homePhone":"1234567899",
+            "personalMobileNum":"1234567899",
+            "personalFaxNum":"1234567899",
+            "personalEmail":"testCustomer@test.com",
+            "qualification":"Graduate",
+            "children":"2",
+            "relationSalutation":"Mr",
+            "relationFirstName":"test",
+            "relationLastName":"relation",
+            "relationShip":"Father",
+            "event":"Birthday",
+            "eventDate" : "",
+            "remarks":"added relation"
+        },
+
+        "contactRemarks":"added Remarks",
+
+        "credit":{
+            "location":"Gurgaon",
+            "service":"Air Export",
+            "division":"Internal",
+            "creditDays":"10",
+            "publishedCreditDays":"10",
+            "creditAmount":"1000"
+        },
+        "email":{
+
+            "email":"test@test.com",
+            "location":"Gurgaon",
+            "originCountry":"India",
+            "destinCountry":"Japan"
+        },
+
+        "moreInfo":{
+            "disableCustomerType":"CS",
+            "customerType":"CS",
+            "agentCustomerType":"AG",
+            "iataCode":"12345",
+            "vertical":"vertical", 
+            "vatNo":"12345",
+            "panNo":"12345",
+            "svtRegnNo":"12345",
+            "tinNo":"12345",
+            "racNum":"12345", 
+            "accountNum":"12345", 
+            "personalIdNum":"12345",
+            "tsaRegistrationNum":"12345", 
+            "spotNum":"12345"
+        },
+
+        "profiles":{
+            "service":"Air Export", 
+            "termsOfShipment":"Cost And Freight", 
+            "origin":"Delhi", 
+            "destination":"Dubai", 
+            "frequency":"Daily", 
+            "commodityGrp":"1-cyanoguanidine (dicyandiamide)", 
+            "unit":"KG", 
+            "volume":"10", 
+            "noOfShipment":"2", 
+            "estRevenue":"2000", 
+            "currentPotential":"Current"
+        },
+
+        "serviceDivision":{
+            "serviceLocation":"Gurgaon",
+            "serviceService":"Air Export",
+            "serviceSalesman":"Hemant Chaurasia",
+            "serviceCustomerService":"Hemant Chaurasia",
+            "serviceTos":"Cost And Freight",
+            "divisionCompany":"xebia",
+            "divisionDivision":"vertical"
+        }
+    }],
+
+    "addImportCustomer":[{
+        "customer" :{
+            "name":"testImportCustomer",
+            "grade":"A",
+            "country":"India",
+            "customerTableDataXpathTag":"partyArr"
+        },
+        
+        "accounts" : {
+            "paymentSchedule":"Daily", 
+            "cafPercentage":"5", 
+            "ccPercentage":"5",
+            "tdsPercentage":"7", 
+            "cstno":"7777", 
+            "location":"Gurgaon", 
+            "account":"Local Debtors", 
+            "termCode":"Cash", 
+            "currencyCode":"INR",
+            "billingAccountName":"Party", 
+            "taxExempted":"Yes", 
+            "status":"Active"
+        },
+
+        "address":{
+            "type":"Primary",
+            "address1":"Address 1",
+            "address2":"Address 2",
+            "address3":"Address 3",
+            "contactName":"test Customer",
+            "stateProvince":"Delhi",
+            "email":"testCustomer@test.com",
+            "phoneNumber":"1234567899",
+            "mobileNumber":"1234567899",
+            "faxNumber":"1234567899",
+            "city":"Delhi",
+            "zipCode":"11111",
+            "branchSlNum":"1234",
+            "bankDlrCodeNum":"1234"
+        },
+
+        "contactOfficial":{
+            "salutation":"Mr",
+            "firstName":"test",
+            "lastName":"Customer",
+            "designation":"QA",
+            "department":"Software Engg",
+            "address":"Address",
+            "officePhoneNum":"1234567899",
+            "mobileNum":"1234567899",
+            "faxNum":"1234567899",
+            "email":"testCustomer@test.com",
+            "assistantName":"testAssistant",
+            "assistantPhoneNum":"1234567899",
+            "preferredCallTime":"afternoon",
+            "reportingTo":"testReporter",
+            "formerCompany":"xebiaIT"
+        },
+        "contactPersonal": {
+            "personalAddress":"Personal Address",
+            "homePhone":"1234567899",
+            "personalMobileNum":"1234567899",
+            "personalFaxNum":"1234567899",
+            "personalEmail":"testCustomer@test.com",
+            "qualification":"Graduate",
+            "children":"2",
+            "relationSalutation":"Mr",
+            "relationFirstName":"test",
+            "relationLastName":"relation",
+            "relationShip":"Father",
+            "event":"Birthday",
+            "eventDate" : "",
+            "remarks":"added relation"
+        },
+
+        "contactRemarks":"added Remarks",
+
+        "credit":{
+            "location":"Gurgaon",
+            "service":"Air Export",
+            "division":"Internal",
+            "creditDays":"10",
+            "publishedCreditDays":"10",
+            "creditAmount":"1000"
+        },
+        "email":{
+
+            "email":"test@test.com",
+            "location":"Gurgaon",
+            "originCountry":"India",
+            "destinCountry":"Japan"
+        },
+
+        "moreInfo":{
+            "disableCustomerType":"CS",
+            "customerType":"CS",
+            "agentCustomerType":"AG",
+            "iataCode":"12345",
+            "vertical":"vertical", 
+            "vatNo":"12345",
+            "panNo":"12345",
+            "svtRegnNo":"12345",
+            "tinNo":"12345",
+            "racNum":"12345", 
+            "accountNum":"12345", 
+            "personalIdNum":"12345",
+            "tsaRegistrationNum":"12345", 
+            "spotNum":"12345"
+        },
+
+        "profiles":{
+            "service":"Air Export", 
+            "termsOfShipment":"Cost And Freight", 
+            "origin":"Delhi", 
+            "destination":"Dubai", 
+            "frequency":"Daily", 
+            "commodityGrp":"1-cyanoguanidine (dicyandiamide)", 
+            "unit":"KG", 
+            "volume":"10", 
+            "noOfShipment":"2", 
+            "estRevenue":"2000", 
+            "currentPotential":"Current"
+        },
+
+        "serviceDivision":{
+            "serviceLocation":"Gurgaon",
+            "serviceService":"Air Export",
+            "serviceSalesman":"Hemant Chaurasia",
+            "serviceCustomerService":"Hemant Chaurasia",
+            "serviceTos":"Cost And Freight",
+            "divisionCompany":"xebia",
+            "divisionDivision":"vertical"
+        }
+    }]
+
+
+    
+    
+}

@@ -1,0 +1,17 @@
+{
+    "addService": [{
+            "service" : {
+                  "name":"Air Service",
+                  "code":"FE",
+                  "transportmode": "Rail",
+                  "fullgroupage":"NA",
+                  "importexport":"Export",
+                  "costcentercode":"Travel domestic",
+                  "servicetype":"Project",
+                  "upatedservicename":"Sea Service"
+         }
+    }]
+
+
+
+}
